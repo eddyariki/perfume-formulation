@@ -96,3 +96,5 @@
 | Melonal | 1.00 | 0.0600 |
 **Category Total**: 0.0006 g (0.02%)
 
+## Category Contributions Chart
+![Category Contributions](testv2.png)
